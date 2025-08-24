@@ -1,24 +1,5 @@
 {
-  "name": "background-generator",
-  "version": "1.0.0",
-  "description": "",
-  "homepage": "https://github.com/faisalmahmudemon/background-generator#readme",
-  "bugs": {
-    "url": "https://github.com/faisalmahmudemon/background-generator/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/faisalmahmudemon/background-generator.git"
-  },
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
-    "express": "^5.1.0",
     "lodash": "^4.17.21"
   }
 }
